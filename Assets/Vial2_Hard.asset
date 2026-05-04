@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f841421414a8749139712e4d3e5ea082, type: 3}
+  m_Name: Vial2_Hard
+  m_EditorClassIdentifier: Assembly-CSharp::VialData
+  vialName: Vial 2 (Hard)
+  narrativeText: '"Sensor kualitas udara mengirimkan data dari berbagai wilayah.
+    Namun, terdapat nilai tidak valid, duplikasi pembacaan, dan data yang hilang.
+    Kesalahan analisis dapat menyebabkan kebijakan lingkungan yang salah."'
+  rawDataContent: 'ID\tLocation\tAQI\tStatus\n
+
+    1\tKota A\t75\tVALID\n
+
+    2\tKota
+    B\t999\tVALID\n
+
+    3\tKota C\t60\tNULL\n
+
+    4\tKota D\t80\tVALID\n
+
+    5\tKota
+    A\t75\tVALID\n
+
+    6\tKota E\t-10\tVALID\n
+
+    7\tKota F\t300\tVALID'

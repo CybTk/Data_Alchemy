@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f841421414a8749139712e4d3e5ea082, type: 3}
+  m_Name: Vial1_Easy
+  m_EditorClassIdentifier: Assembly-CSharp::VialData
+  vialName: Vial 1 (Easy)
+  narrativeText: '"Data pasien menunjukkan nilai tidak wajar dan informasi yang hilang.
+    Kesalahan dalam pengolahan dapat berakibat fatal."'
+  rawDataContent: 'ID\tName\tAge\tStatus\n
+
+    1\tAndi\t21\tOK\n
+
+    2\tBudi\t25\tNULL\n
+
+    3\tCitra\t22\tOK\n
+
+    4\tAndi\t21\tOK\n
+
+    5\tDeni\t23\tOK'
